@@ -1,4 +1,5 @@
 # IIITH-AIML
 My AIML codes of the Training Program
 
-![machine-learning-life-cycle](https://github.com/IconOfDreamers99/IIITH-AIML/assets/119439763/208b1a86-955a-4e4b-b154-b384800c07fe)
+![Machine-Learning-Life-cycle-Schematic-View](https://github.com/IconOfDreamers99/IIITH-AIML/assets/119439763/58d61c4a-c23b-456b-8b29-b4b328b574f2)
+
